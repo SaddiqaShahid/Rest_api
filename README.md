@@ -15,9 +15,11 @@ Endpoints
 POST /item
 
 item (string): The name of the item to add.
+
 Response: Returns the updated list of items.
 
 DELETE /items/{item_name}
 
 item_name (string): The name of the item to delete.
+
 Response: Returs updated list of items.
