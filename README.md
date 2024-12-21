@@ -1,4 +1,5 @@
 FastAPI Item Management API
+
 It is a  FastAPI project that allows you to manage a list of items. You can add and delete  items to list  through API endpoints.
 
 Features
